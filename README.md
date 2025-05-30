@@ -1,2 +1,2 @@
 # Pharmaceuticals-Sales-Intelligence
-!(Dashboard.png)
+<img src="Dashboard.png" alt="Pharma Sales Dashboard" width="600"/>
